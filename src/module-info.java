@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amirdi
+ *
+ */
+module InterfaceTest {
+}
